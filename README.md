@@ -1,5 +1,4 @@
 # Temperature Converter Microservice
-*by Axel Aviloff*
 \
 Microservice using Spring Cloud, Eureka, Zuul & OpenFeign
 
